@@ -45,5 +45,8 @@ Made the following changes and created the following variables so that it was us
 - Column for simplified job title and Seniority
 - Column for description length
 
+## EDA
+After looking at the distribution of the data and the value counts for the various categorical variables. Below are a few highlights from the Pivot Table.
+
  
 
