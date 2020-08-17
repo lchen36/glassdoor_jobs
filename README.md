@@ -38,7 +38,12 @@ Made the following changes and created the following variables so that it was us
 - Made a new column for company state
 - Transformed founded date into age of company
 - Made columns for if different skills were listed in the job description:
-  - 123
+  - Python
+  - Excel
+  - SQL
+  - Tableau
+- Column for simplified job title and Seniority
+- Column for description length
 
  
 
