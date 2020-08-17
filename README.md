@@ -32,12 +32,12 @@ Scraped 1000 job postings from glassdoor.com. Information included:
 
 ## Data Cleaning
 Made the following changes and created the following variables so that it was usable for our model:
-* Parsed numeric data out of salary
-* Removed rows without salary
-* Parsed rating out of company text
-* Made a new column for company state
-* Transformed founded date into age of company
-* Made columns for if different skills were listed in the job description:
- - 123
+- Parsed numeric data out of salary
+- Removed rows without salary
+- Parsed rating out of company text
+- Made a new column for company state
+- Transformed founded date into age of company
+- Made columns for if different skills were listed in the job description:
+
  
 
