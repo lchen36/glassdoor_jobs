@@ -15,4 +15,6 @@
 
 **Data Science Project from Scratch:** https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&index=1 by Ken Jee
 
+## Web Scraping
+scrape 1000 job postings from glassdoor.com. With each job, we got the following:
 
