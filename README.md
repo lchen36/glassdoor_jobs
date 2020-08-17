@@ -16,5 +16,26 @@
 **Data Science Project from Scratch:** https://www.youtube.com/watch?v=MpF9HENQjDo&list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t&index=1 by Ken Jee
 
 ## Web Scraping
-scrape 1000 job postings from glassdoor.com. With each job, we got the following:
+Scraped 1000 job postings from glassdoor.com. Information included:
+* Job title
+* Salary Estimate
+* Job Description
+* Rating
+* Company
+* Location
+* Company Size
+* Company Founded Date
+* Type of Ownership
+* Industry
+* Sector
+* Revenue
+
+## Data Cleaning
+Made the following changes and created the following variables so that it was usable for our model:
+* Parsed numeric data out of salary
+* Removed rows without salary
+* Parsed rating out of company text
+* Made a new column for company state
+* Transformed founded date into age of company
+* Made columns for if different skills were listed in the job description:
 
