@@ -4,7 +4,6 @@
 * Summarized data instantly with Pivot Tables by comparing different variables.
 * Created a WordCloud from the text of each 'job description', which represent the frequence and importance of each word.
 * Optimized Linear Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.
-* Build a client facing API using flask
 
 ## Code and Resources Used
 **Python Version:** 3.7 
@@ -65,5 +64,5 @@ I tried two different models and evaluated them using Mean Absolute Error:
 The Lasso Regression model far outperformed the other approaches on the test and validation sets:
 
 - **Lasso Regression:** MAE = 16.17
-
+- **Random Forest:** MAE = 16.44
 - **Linear Regression:** MAE = 65791326.18
