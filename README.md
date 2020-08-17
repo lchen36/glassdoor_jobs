@@ -55,9 +55,9 @@ Transformed the categorical variables into dummy variables. I also split the dat
 
 I tried two different models and evaluated them using Mean Absolute Error:
  
- **Multiple Linear Regression:** Baseline for the model.
+ - **Multiple Linear Regression:** Baseline for the model.
  
- **Lasso Regression:** Because of the sparse data from the many categorical variables.
+ - **Lasso Regression:** Because of the sparse data from the many categorical variables.
  
  **Random Forest:** Because of the sparsity associated with the data.
  
