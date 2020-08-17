@@ -54,6 +54,6 @@ After looking at the distribution of the data and the value counts for the vario
 Transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
 
 I tried two different models and evaluated them using Mean Absolute Error:
- - Multiple Linear Regression – Baseline for the model.
- - Lasso Regression – Because of the sparse data from the many categorical variables.
- - Random Forest – Because of the sparsity associated with the data.
+ -- Multiple Linear Regression – Baseline for the model.
+ -- Lasso Regression – Because of the sparse data from the many categorical variables.
+ -- Random Forest – Because of the sparsity associated with the data.
