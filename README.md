@@ -60,3 +60,10 @@ I tried two different models and evaluated them using Mean Absolute Error:
  **Lasso Regression:** Because of the sparse data from the many categorical variables.
  
  **Random Forest:** Because of the sparsity associated with the data.
+ 
+ ## Model performance
+The Lasso Regression model far outperformed the other approaches on the test and validation sets:
+
+**Lasso Regression:** MAE = 16.17
+
+**Linear Regression:** MAE = 65791326.18
