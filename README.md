@@ -47,5 +47,6 @@ Made the following changes and created the following variables so that it was us
 
 ## EDA
 After looking at the distribution of the data and the value counts for the various categorical variables. Below are a few highlights from the Pivot Table.
+
 <img width="394" alt="截屏2020-08-16 下午11 11 56" src="https://user-images.githubusercontent.com/68720881/90354016-ec343180-e015-11ea-96a9-063d172636b7.png">
 
