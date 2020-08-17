@@ -48,5 +48,4 @@ Made the following changes and created the following variables so that it was us
 ## EDA
 After looking at the distribution of the data and the value counts for the various categorical variables. Below are a few highlights from the Pivot Table.
 
-<img width="284" alt="截屏2020-08-16 下午11 24 09" src="https://user-images.githubusercontent.com/68720881/90354545-9fe9f100-e017-11ea-8fb7-97fb00dbba40.png">
-<img width="397" alt="截屏2020-08-16 下午11 15 05" src="https://user-images.githubusercontent.com/68720881/90354133-54831300-e016-11ea-9307-4d2f923aa5c5.png"><img width="284" alt="截屏2020-08-16 下午11 20 40" src="https://user-images.githubusercontent.com/68720881/90354385-32d65b80-e017-11ea-803f-5691cf32d49c.png">
+<img width="284" alt="截屏2020-08-16 下午11 24 09" src="https://user-images.githubusercontent.com/68720881/90354545-9fe9f100-e017-11ea-8fb7-97fb00dbba40.png"><img width="397" alt="截屏2020-08-16 下午11 15 05" src="https://user-images.githubusercontent.com/68720881/90354133-54831300-e016-11ea-9307-4d2f923aa5c5.png"><img width="284" alt="截屏2020-08-16 下午11 20 40" src="https://user-images.githubusercontent.com/68720881/90354385-32d65b80-e017-11ea-803f-5691cf32d49c.png">
